@@ -1,0 +1,43 @@
+#title {
+    text-align: center;
+    padding: 20px;
+    background: red;
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+.flex-column {
+    margin-top: 145px;
+    padding: 20px;
+    background: red;
+    width: 122px;
+}
+
+.nav-link {
+    color: black;
+}
+
+.jumbotron-fluid {
+    float: right;
+    margin-top: 140px;
+    margin-right: 390px;
+    height: 412px;
+    width: 960px;
+    background: red!important;
+}
+
+#mainPic {
+    margin-left: 200px;
+}
+
+body {
+    background-image: url(https://cdn.wallpapersafari.com/48/8/EQpurF.jpg)
+}
+
+.display-4 {
+font-size: 35px
+}
+
+#aboutUs {
+    text-align: center
+}
